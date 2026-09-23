@@ -1,10 +1,5 @@
 # Sistem Perhitungan Biaya Parkir
 
-total_biaya_parkir = {
-    "mobil": 5000,
-    "motor": 3000,
-}
-
 def hitung_biaya_parkir(jenis_kendaraan, durasi_parkir):
     if jenis_kendaraan == "mobil":
         tarif = 5000
