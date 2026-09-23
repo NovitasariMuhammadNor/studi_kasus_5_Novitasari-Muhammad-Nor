@@ -5,7 +5,7 @@ Nim : 26091160082
 
 *Penjelasan tentang coding Sistem Perhitungan Biaya Parkir juga fungsinya*    
 
-1. Program ini digunakan untuk menghitung biaya parkir berdasarkan jenis kendaraan dan lama parkir. Variabel total_biaya_parkir berupa dictionary digunakan untuk menyimpan tarif Mobil sebesar Rp5.000 per jam dan Motor sebesar Rp3.000 per jam.  
+1. Program ini digunakan untuk menghitung biaya parkir berdasarkan jenis kendaraan dan lama parkir. Variabel total_biaya_parkir berupa dictionary digunakan untuk menyimpan tarif Mobil sebesar 5000 per jam dan Motor sebesar 3000 per jam.  
 
 <img width="401" height="68" alt="image" src="https://github.com/user-attachments/assets/92f4e522-c757-4821-9044-cfae322a69aa" />  
 
@@ -26,17 +26,17 @@ Nim : 26091160082
 <img width="326" height="21" alt="image" src="https://github.com/user-attachments/assets/70c25e1a-82bd-45c7-8c38-c590963f770e" />  
 
 
-6. print() digunakan untuk menampilkan hasil program, yaitu jenis kendaraan, jam masuk, jam keluar, lama parkir, dan total biaya parkir. Baris print("\n==== Hasil Perhitungan Parkir ====") menampilkan judul hasil, sedangkan baris berikutnya menampilkan data yang sudah dimasukkan dan dihitung sebelumnya. Jadi, pengguna dapat melihat seluruh hasil perhitungan biaya parkir dengan jelas.
+6. print() digunakan untuk menampilkan hasil program, yaitu jenis kendaraan, jam_masuk, jam_keluar, lama_parkir, dan total_biaya_parkir. Baris print("\n==== Hasil Perhitungan Parkir ====") menampilkan judul hasil, sedangkan baris berikutnya menampilkan data yang sudah dimasukkan dan dihitung sebelumnya. Jadi, pengguna dapat melihat seluruh hasil perhitungan biaya parkir dengan jelas.
 <img width="549" height="69" alt="image" src="https://github.com/user-attachments/assets/e5ba3c4c-f8ea-4821-b530-f77f805dea92" />  
 
 
 7. tampilan terminal
 <img width="794" height="263" alt="image" src="https://github.com/user-attachments/assets/74a25308-61b8-4f6b-a1f3-a5a81a2beace" />
 
-
+8. *Selesai*
     
 
-*Sekian Penjelasan tentang coding Sistem Perhitungan Biaya Parkir juga fungsinya, jika ada salah kata maupun ketikan saya mohon maaf dan terimakasihh chann:)* 
+*Sekian Penjelasan tentang coding Sistem Perhitungan Biaya Parkir juga fungsinya, jika ada salah kata maupun ketikan saya mohon maaf dan terimakasihh:)* 
 
 
 
